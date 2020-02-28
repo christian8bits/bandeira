@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InternacionalizacaoBandeira</string>
+    <string name="comida">Γεμιστά</string>
+    <string name="lugar">Ελλάδα</string>
+    <string name="paises">Χώρες</string>
+</resources>

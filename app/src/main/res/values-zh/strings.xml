@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InternacionalizacaoBandeira</string>
+    <string name="comida">宋舒桂玉</string>
+    <string name="lugar">中国</string>
+    <string name="paises">国家</string>
+</resources>
